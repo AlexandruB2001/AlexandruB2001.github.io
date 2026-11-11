@@ -1,4 +1,4 @@
 {
-  "build": 31,
-  "notes": "Your steps and distance now update for friends and the leaderboard even when the app is closed."
+  "build": 32,
+  "notes": "Helps us check that your steps upload in the background. Open the app once, then walk with it closed."
 }
