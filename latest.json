@@ -1,4 +1,1 @@
-{
-  "build": 32,
-  "notes": "Helps us check that your steps upload in the background. Open the app once, then walk with it closed."
-}
+{"build": 33, "notes": "Capes, cloaks and backpacks now sit behind your companion, and the Adopt button is fixed."}
